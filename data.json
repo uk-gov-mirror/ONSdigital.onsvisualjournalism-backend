@@ -1,5 +1,39 @@
 [
       {
+            "doc_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/ukproductivityintroduction/julytoseptember2026",
+            "release_date": "2026-11-17",
+            "title": "Labour productivity, UK: July to September 2026",
+            "edition": "July to September 2026",
+            "vis": [
+                  {
+                        "url": "/visualisations/dvc3685/fig05/index.html",
+                        "chart_type": "small-multiple-line-chart-focus"
+                  }
+            ],
+            "theme": "employmentandlabourmarket",
+            "topic": "peopleinwork",
+            "subtopic": "labourproductivity",
+            "series": "Labour productivity, UK",
+            "latest": true
+      },
+      {
+            "doc_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/november2026",
+            "release_date": "2026-11-17",
+            "title": "Labour market overview, UK: November 2026",
+            "edition": "November 2026",
+            "vis": [
+                  {
+                        "url": "/visualisations/dvc3692/build/",
+                        "chart_type": null
+                  }
+            ],
+            "theme": "employmentandlabourmarket",
+            "topic": "peopleinwork",
+            "subtopic": "employmentandemployeetypes",
+            "series": "Labour market overview, UK",
+            "latest": true
+      },
+      {
             "doc_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/shorttermletsthroughonlinecollaborativeeconomyplatformsuk/july2023tojune2026",
             "release_date": "2026-11-13",
             "title": "Short-term lets through online collaborative economy platforms, UK:  July 2023 to June 2026",
@@ -47,11 +81,11 @@
                         "chart_type": "grouped-bar-chart"
                   }
             ],
+            "series": "Research update on population estimates by country of birth for England and Wales",
+            "latest": true,
             "theme": "peoplepopulationandcommunity",
             "topic": "populationandmigration",
-            "subtopic": "internationalmigration",
-            "series": "Research update on population estimates by country of birth for England and Wales",
-            "latest": true
+            "subtopic": "internationalmigration"
       },
       {
             "doc_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/developmentofadminbasedhouseholdestimatesbysizeforlocalauthoritiesinenglandandwales2021",
@@ -101,11 +135,11 @@
                         "chart_type": "beeswarm"
                   }
             ],
+            "series": "Developing population estimates by ethnicity for England and Wales",
+            "latest": true,
             "theme": "peoplepopulationandcommunity",
             "topic": "populationandmigration",
-            "subtopic": "populationestimates",
-            "series": "Developing population estimates by ethnicity for England and Wales",
-            "latest": true
+            "subtopic": "populationestimates"
       },
       {
             "doc_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/avoidablemortalityinenglandandwales/2025",
@@ -126,11 +160,11 @@
                         "chart_type": "small-multiple-line-chart-multiline"
                   }
             ],
+            "series": "Avoidable mortality in England and Wales",
+            "latest": true,
             "theme": "peoplepopulationandcommunity",
             "topic": "healthandsocialcare",
-            "subtopic": "causesofdeath",
-            "series": "Avoidable mortality in England and Wales",
-            "latest": true
+            "subtopic": "causesofdeath"
       },
       {
             "doc_uri": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
@@ -163,11 +197,11 @@
                         "chart_type": "line-chart"
                   }
             ],
+            "series": "GDP revisions in Blue Book",
+            "latest": true,
             "theme": "economy",
             "topic": "nationalaccounts",
-            "subtopic": "uksectoraccounts",
-            "series": "GDP revisions in Blue Book",
-            "latest": true
+            "subtopic": "uksectoraccounts"
       },
       {
             "doc_uri": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/2026",
@@ -196,11 +230,11 @@
                         "chart_type": null
                   }
             ],
+            "series": "UK Balance of Payments, The Pink Book",
+            "latest": true,
             "theme": "economy",
             "topic": "nationalaccounts",
-            "subtopic": "balanceofpayments",
-            "series": "UK Balance of Payments, The Pink Book",
-            "latest": true
+            "subtopic": "balanceofpayments"
       },
       {
             "doc_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/bulletins/estimatesoftheveryoldincludingcentenarians/2002to2025",
@@ -225,11 +259,11 @@
                         "chart_type": "clustered-bar-chart"
                   }
             ],
+            "series": "Estimates of the very old, including centenarians, UK",
+            "latest": true,
             "theme": "peoplepopulationandcommunity",
             "topic": "birthsdeathsandmarriages",
-            "subtopic": "ageing",
-            "series": "Estimates of the very old, including centenarians, UK",
-            "latest": true
+            "subtopic": "ageing"
       },
       {
             "doc_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/bulletins/economicactivityandsocialchangeintheukrealtimeindicators/22october2026",
@@ -393,7 +427,7 @@
                   }
             ],
             "series": "Labour market overview, UK",
-            "latest": true,
+            "latest": false,
             "theme": "employmentandlabourmarket",
             "topic": "peopleinwork",
             "subtopic": "employmentandemployeetypes"
