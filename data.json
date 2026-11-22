@@ -69,11 +69,11 @@
                         "chart_type": null
                   }
             ],
-            "series": "Labour market overview, UK",
-            "latest": true,
             "theme": "employmentandlabourmarket",
             "topic": "peopleinwork",
-            "subtopic": "employmentandemployeetypes"
+            "subtopic": "employmentandemployeetypes",
+            "series": "Labour market overview, UK",
+            "latest": true
       },
       {
             "doc_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/shorttermletsthroughonlinecollaborativeeconomyplatformsuk/july2023tojune2026",
