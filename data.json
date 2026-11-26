@@ -1,5 +1,75 @@
 [
       {
+            "doc_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/domesticabusevictimcharacteristicsenglandandwales/yearendingmarch2026",
+            "release_date": "2026-11-25",
+            "title": "Domestic abuse victim characteristics, England and Wales: year ending March 2026",
+            "edition": "year ending March 2026",
+            "vis": [
+                  {
+                        "url": "/visualisations/dvc3689/fig-01/index.html",
+                        "chart_type": "range-plot"
+                  },
+                  {
+                        "url": "/visualisations/dvc3689/fig-02/index.html",
+                        "chart_type": "range-plot"
+                  },
+                  {
+                        "url": "/visualisations/dvc3689/fig-04/index.html",
+                        "chart_type": "range-plot"
+                  },
+                  {
+                        "url": "/visualisations/dvc3689/fig-06/index.html",
+                        "chart_type": "range-plot"
+                  },
+                  {
+                        "url": "/visualisations/dvc3689/fig-13/index.html",
+                        "chart_type": "range-plot"
+                  }
+            ],
+            "theme": "peoplepopulationandcommunity",
+            "topic": "crimeandjustice",
+            "subtopic": null,
+            "series": "Domestic abuse victim characteristics, England and Wales",
+            "latest": true
+      },
+      {
+            "doc_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/domesticabuseinenglandandwalesoverview/november2026",
+            "release_date": "2026-11-25",
+            "title": "Domestic abuse in England and Wales overview: November 2026",
+            "edition": "November 2026",
+            "vis": [
+                  {
+                        "url": "/visualisations/dvc3688/fig01/index.html",
+                        "chart_type": "bar-chart"
+                  },
+                  {
+                        "url": "/visualisations/dvc3688/fig02/index.html",
+                        "chart_type": "stacked-horizontal-bar-chart"
+                  },
+                  {
+                        "url": "/visualisations/dvc3688/fig03/index.html",
+                        "chart_type": "stacked-horizontal-bar-chart"
+                  },
+                  {
+                        "url": "/visualisations/dvc3688/fig04/index.html",
+                        "chart_type": "stacked-horizontal-bar-chart"
+                  },
+                  {
+                        "url": "/visualisations/dvc3688/fig05/index.html",
+                        "chart_type": "stacked-horizontal-bar-chart"
+                  },
+                  {
+                        "url": "/visualisations/dvc3688/fig06/index.html",
+                        "chart_type": "stacked-horizontal-bar-chart"
+                  }
+            ],
+            "theme": "peoplepopulationandcommunity",
+            "topic": "crimeandjustice",
+            "subtopic": null,
+            "series": "Domestic abuse in England and Wales overview",
+            "latest": true
+      },
+      {
             "doc_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/bulletins/regionalandsubregionallabourproductivityuk/2024",
             "release_date": "2026-11-24",
             "title": "Regional and subregional labour productivity, UK: 2024",
@@ -96,11 +166,11 @@
                         "chart_type": "small-multiple-line-chart-multiline"
                   }
             ],
+            "series": "New\u202finsights\u202fon labour market dynamics from\u202fUK Linked\u202fEmployer-Employee\u202fData\u202f(LEED)",
+            "latest": true,
             "theme": "employmentandlabourmarket",
             "topic": "peopleinwork",
-            "subtopic": "employmentandemployeetypes",
-            "series": "New\u202finsights\u202fon labour market dynamics from\u202fUK Linked\u202fEmployer-Employee\u202fData\u202f(LEED)",
-            "latest": true
+            "subtopic": "employmentandemployeetypes"
       },
       {
             "doc_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/october2026",
@@ -113,11 +183,11 @@
                         "chart_type": "line-chart"
                   }
             ],
+            "series": "Public opinions and social trends, Great Britain",
+            "latest": true,
             "theme": "peoplepopulationandcommunity",
             "topic": "wellbeing",
-            "subtopic": null,
-            "series": "Public opinions and social trends, Great Britain",
-            "latest": true
+            "subtopic": null
       },
       {
             "doc_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/bulletins/economicactivityandsocialchangeintheukrealtimeindicators/19november2026",
@@ -5079,7 +5149,7 @@
                   }
             ],
             "series": "Domestic abuse in England and Wales overview",
-            "latest": true,
+            "latest": false,
             "theme": "peoplepopulationandcommunity",
             "topic": "crimeandjustice",
             "subtopic": null
